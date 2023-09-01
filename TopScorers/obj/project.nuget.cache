@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mXCc9l736pJ6JhY092D3SEFukDR1CS1ymo43SlPXiHpKYI8AtiPvr4tlyiw8kaAyAYcy1nQ4LpKsr8jOv0g0Aw==",
+  "success": true,
+  "projectFilePath": "G:\\Projects\\TopScorers\\TopScorers\\TopScorers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIFTY.DESKTOP-NQ86URM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

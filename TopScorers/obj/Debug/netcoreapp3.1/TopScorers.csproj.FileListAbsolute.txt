@@ -1,0 +1,14 @@
+G:\Projects\TopScorers\TopScorers\bin\Debug\netcoreapp3.1\TopScorers.exe
+G:\Projects\TopScorers\TopScorers\bin\Debug\netcoreapp3.1\TopScorers.deps.json
+G:\Projects\TopScorers\TopScorers\bin\Debug\netcoreapp3.1\TopScorers.runtimeconfig.json
+G:\Projects\TopScorers\TopScorers\bin\Debug\netcoreapp3.1\TopScorers.runtimeconfig.dev.json
+G:\Projects\TopScorers\TopScorers\bin\Debug\netcoreapp3.1\TopScorers.dll
+G:\Projects\TopScorers\TopScorers\bin\Debug\netcoreapp3.1\TopScorers.pdb
+G:\Projects\TopScorers\TopScorers\obj\Debug\netcoreapp3.1\TopScorers.csproj.AssemblyReference.cache
+G:\Projects\TopScorers\TopScorers\obj\Debug\netcoreapp3.1\TopScorers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\TopScorers\TopScorers\obj\Debug\netcoreapp3.1\TopScorers.AssemblyInfoInputs.cache
+G:\Projects\TopScorers\TopScorers\obj\Debug\netcoreapp3.1\TopScorers.AssemblyInfo.cs
+G:\Projects\TopScorers\TopScorers\obj\Debug\netcoreapp3.1\TopScorers.csproj.CoreCompileInputs.cache
+G:\Projects\TopScorers\TopScorers\obj\Debug\netcoreapp3.1\TopScorers.dll
+G:\Projects\TopScorers\TopScorers\obj\Debug\netcoreapp3.1\TopScorers.pdb
+G:\Projects\TopScorers\TopScorers\obj\Debug\netcoreapp3.1\TopScorers.genruntimeconfig.cache
