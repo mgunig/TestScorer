@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TopScorers": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\GIFTY.DESKTOP-NQ86URM\\Downloads\\TestData.csv , yes"
+    }
+  }
+}
